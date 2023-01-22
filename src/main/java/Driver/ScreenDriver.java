@@ -13,7 +13,7 @@ import java.util.regex.Pattern;
 
 public class ScreenDriver {
     //File Path to Load DataSet
-    public static final String filepath = "/Users/bhim/IdeaProjects/DBMS_MAJOR_PROJECT/src/main/resources/stock10k.data";
+    public static final String filepath = "resources/stock10k.data";
 
 
     /**
